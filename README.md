@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Manish Kumar
+- 😊Currently learning JAVA,Vue.js,System Commands
 - 👀 I’m interested in travelling, playing badminton, listening to music, reading novel and learning new things.  
 - 🌱 I’m currently learning java, App development, system commands, machine learning
 - 💞️ I’m looking to collaborate on Open Source Projects
